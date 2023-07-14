@@ -1,15 +1,13 @@
 {
   "name": "ignite-feed",
-  "homepage": "https://leonsuckow.github.io/ignite-feed/",
+  "homepage": "ignite-feed/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "date-fns": "^2.30.0",

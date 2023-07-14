@@ -2,9 +2,9 @@
 
 Projeto feito na trilha Ignite da RocketSeat
 
-O Ignite Feed é um projeto simples de feed de uma 'rede social', o usuário poderá compartilhar ideias, projetos, comentar em posts existentes, gerenciar seu perfil.
+O Ignite Feed é um projeto simples de feed de uma 'rede social', onde o usuário poderá compartilhar ideias, projetos, comentar em posts existentes e gerenciar seu perfil.
 
-`O backend ainda está sendo desenvolvido`, o projeto ainda esta incompleto
+`O backend ainda está sendo desenvolvido, todas as funcionalidades serão passadas pra lá`.
 
 Site demonstrativo
 https://leonsuckow.github.io/ignite-feed/
