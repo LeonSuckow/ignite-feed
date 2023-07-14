@@ -42,8 +42,9 @@ jobs:
         run: |
           npm ci
           npm run build
-      - name: Deploy to gh-pages
-        uses: development
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
