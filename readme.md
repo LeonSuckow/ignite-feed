@@ -7,7 +7,7 @@ O Ignite Feed é um projeto simples de feed de uma 'rede social', o usuário pod
 ![Projeto Ignite Feed](https://github.com/LeonSuckow/ignite-feed/blob/main/src/assets/ignite-feed-desktop.png?raw=true)
 ![Projeto Ignite Feed Mobile](https://github.com/LeonSuckow/ignite-feed/blob/main/src/assets/ignite-feed-mobile.png?raw=true)
 
-## Funcionalidades
+## Funcionalidades que serão desenvolvidas
 
 O projeto possuirá as seguintes funcionalidades:
 
