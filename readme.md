@@ -4,8 +4,8 @@ O Ignite Feed é um projeto simples de feed de uma 'rede social', o usuário pod
 
 `O backend ainda está sendo desenvolvido`, o projeto ainda esta incompleto
 
-![Projeto Ignite Feed](https://github.com/LeonSuckow/ignite-feed/blob/main/src/assets/ignite-feed-desktop(1).png?raw=true)
-![Projeto Ignite Feed Mobile](https://github.com/LeonSuckow/ignite-feed/blob/main/src/assets/ignite-feed-mobile(1).png?raw=true)
+![Projeto Ignite Feed](https://github.com/LeonSuckow/ignite-feed/blob/main/src/assets/ignite-feed-desktop.png?raw=true)
+![Projeto Ignite Feed Mobile](https://github.com/LeonSuckow/ignite-feed/blob/main/src/assets/ignite-feed-mobile.png?raw=true)
 
 ## Funcionalidades
 
@@ -26,7 +26,7 @@ Para começar a usar o Ignite Feed, siga as instruções abaixo:
 1. Clone o repositório do projeto para o seu ambiente de desenvolvimento:
 
    ```
-   git clone https://github.com/seu-usuario/ignite-feed.git
+   git clone https://github.com/LeonSuckow/ignite-feed.git
    ```
 
 2. Navegue até o diretório do projeto:
@@ -44,13 +44,9 @@ Para começar a usar o Ignite Feed, siga as instruções abaixo:
 4. Execute o projeto:
 
    ```
-   npm start
+   npm run dev
    ```
 
-5. Abra o aplicativo em seu navegador:
 
-   ```
-   http://localhost:3000
-   ```
 
 Agora você pode começar a explorar o `Ignite Feed`
