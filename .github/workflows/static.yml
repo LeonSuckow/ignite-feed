@@ -38,6 +38,10 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
+      - name: Build web-app
+        run: |
+          npm ci
+          npm run build
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
